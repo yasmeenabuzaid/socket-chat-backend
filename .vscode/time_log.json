@@ -61,6 +61,2126 @@
         },
         "timeSpent": 108
       }
+    ],
+    "package-lock.json.git": [
+      {
+        "date": "2026-03-23T15:39:56.125Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 10
+      },
+      {
+        "date": "2026-03-23T15:40:02.158Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-03-23T15:40:05.901Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2026-03-23T15:40:19.286Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2026-03-23T15:40:24.618Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-03-23T15:41:12.348Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 48
+      },
+      {
+        "date": "2026-03-23T15:41:38.936Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 26
+      },
+      {
+        "date": "2026-03-23T15:41:56.573Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 18
+      },
+      {
+        "date": "2026-03-23T15:42:35.087Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 39
+      }
+    ],
+    ".env.git": [
+      {
+        "date": "2026-03-23T15:43:39.481Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T15:44:37.388Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 58
+      },
+      {
+        "date": "2026-03-23T15:45:11.602Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 34
+      }
+    ],
+    "migrations\\20260323154517-create-message.js": [
+      {
+        "date": "2026-03-23T15:45:37.314Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2026-03-23T15:46:13.111Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 36
+      },
+      {
+        "date": "2026-03-23T15:47:01.425Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2026-03-23T15:47:02.175Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T15:47:05.535Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2026-03-23T15:47:09.180Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2026-03-23T15:47:17.758Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2026-03-23T15:47:19.546Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T15:47:29.553Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 10
+      },
+      {
+        "date": "2026-03-23T15:47:31.907Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T15:47:52.550Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 21
+      },
+      {
+        "date": "2026-03-23T15:48:29.816Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T15:48:40.345Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2026-03-23T15:48:41.897Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T15:48:47.624Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-03-23T15:48:48.655Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T15:48:55.220Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2026-03-23T15:48:56.520Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T15:49:03.763Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2026-03-23T15:49:06.046Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T15:52:56.595Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-03-23T15:52:57.595Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T15:53:02.007Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2026-03-23T15:55:48.330Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 166
+      },
+      {
+        "date": "2026-03-23T16:08:32.572Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 764
+      },
+      {
+        "date": "2026-03-23T16:08:33.487Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T16:09:42.135Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 69
+      },
+      {
+        "date": "2026-03-23T16:15:30.522Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T16:15:35.113Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-03-23T16:15:35.141Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2026-03-23T16:54:42.443Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-03-23T16:54:45.782Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T16:54:48.315Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      }
+    ],
+    "migrations\\20260323154510-create-conversation.js": [
+      {
+        "date": "2026-03-23T15:50:24.323Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 19
+      },
+      {
+        "date": "2026-03-23T15:50:34.243Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 10
+      },
+      {
+        "date": "2026-03-23T15:51:36.838Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 63
+      },
+      {
+        "date": "2026-03-23T15:51:43.450Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-03-23T15:51:45.931Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T15:51:50.840Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-03-23T15:51:53.023Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T15:51:54.310Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T15:51:56.575Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T15:51:59.198Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T15:51:59.255Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2026-03-23T15:52:08.685Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2026-03-23T15:52:10.094Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T15:52:13.299Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T15:52:16.690Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T15:52:22.581Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-03-23T15:52:25.738Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T15:52:31.381Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-03-23T16:30:26.868Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T16:30:28.611Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T16:30:34.214Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-03-23T16:30:35.158Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T16:31:32.755Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 58
+      },
+      {
+        "date": "2026-03-23T16:55:05.816Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      }
+    ],
+    "models\\conversation.js": [
+      {
+        "date": "2026-03-23T16:52:06.506Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 15
+      },
+      {
+        "date": "2026-03-23T16:52:20.280Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2026-03-23T16:53:08.317Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 48
+      },
+      {
+        "date": "2026-03-23T16:53:11.682Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2026-03-23T16:53:13.760Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T16:53:27.742Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2026-03-23T16:53:56.817Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T16:55:11.938Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T16:58:08.483Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2026-03-23T16:58:14.123Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-03-23T16:58:16.339Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      }
+    ],
+    "models\\message.js": [
+      {
+        "date": "2026-03-23T16:53:41.350Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T16:53:41.491Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T16:53:59.389Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T16:54:00.889Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T16:54:09.056Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2026-03-23T16:54:09.435Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T16:55:18.419Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T16:58:19.893Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2026-03-23T16:58:21.016Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T16:58:31.090Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 10
+      },
+      {
+        "date": "2026-03-23T16:58:33.922Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T16:58:34.389Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      }
+    ],
+    "config\\config.json": [
+      {
+        "date": "2026-03-23T16:56:24.941Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2026-03-23T16:57:04.159Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 39
+      },
+      {
+        "date": "2026-03-23T16:57:11.603Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2026-03-23T16:57:52.448Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 41
+      },
+      {
+        "date": "2026-03-23T17:02:58.810Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2026-03-23T17:04:01.458Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 63
+      },
+      {
+        "date": "2026-03-23T17:04:12.282Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 10
+      },
+      {
+        "date": "2026-03-23T17:04:14.489Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2026-03-23T17:04:14.508Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T17:05:02.576Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 48
+      },
+      {
+        "date": "2026-03-23T17:05:08.758Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2026-03-23T17:05:11.309Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T17:05:16.680Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 5
+      }
+    ],
+    "command.md": [
+      {
+        "date": "2026-03-23T17:05:56.003Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2026-03-23T17:06:02.967Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2026-03-23T17:06:04.123Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T17:06:07.206Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T17:06:07.887Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2026-03-23T17:06:32.645Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 25
+      },
+      {
+        "date": "2026-03-23T17:06:44.394Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2026-03-23T17:06:47.425Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T17:06:48.836Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T17:06:50.117Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T17:06:59.127Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2026-03-23T17:07:01.150Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T17:07:04.734Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2026-03-23T17:07:07.838Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T17:07:49.310Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 41
+      },
+      {
+        "date": "2026-03-23T17:09:45.517Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 116
+      },
+      {
+        "date": "2026-03-23T17:10:46.761Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 61
+      },
+      {
+        "date": "2026-03-23T17:11:28.665Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 42
+      },
+      {
+        "date": "2026-03-23T19:18:14.087Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T19:18:47.921Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 33
+      }
+    ],
+    "package.json.git": [
+      {
+        "date": "2026-03-23T17:11:52.247Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2026-03-23T17:12:13.230Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 21
+      },
+      {
+        "date": "2026-03-23T17:12:25.623Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2026-03-23T17:13:33.442Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 68
+      },
+      {
+        "date": "2026-03-23T17:15:26.552Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 113
+      },
+      {
+        "date": "2026-03-23T17:56:13.154Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2026-03-23T17:57:03.775Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 51
+      },
+      {
+        "date": "2026-03-23T17:58:15.195Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 71
+      }
+    ],
+    "routes\\index.js": [
+      {
+        "date": "2026-03-23T17:15:37.451Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T17:15:52.444Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2026-03-23T17:15:54.876Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T17:15:58.172Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T17:16:01.257Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T17:16:09.148Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2026-03-23T17:16:15.741Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2026-03-23T17:16:20.164Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2026-03-23T17:16:24.188Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2026-03-23T17:16:28.307Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2026-03-23T17:16:29.138Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T17:34:40.807Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T17:34:53.213Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2026-03-23T17:34:57.546Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2026-03-23T17:34:58.854Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T17:35:00.968Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T17:35:02.189Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T17:35:03.523Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T17:37:14.920Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 131
+      },
+      {
+        "date": "2026-03-23T17:37:18.188Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T17:37:19.545Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T17:37:21.785Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T17:37:23.018Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T17:37:24.763Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T17:59:52.074Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T17:59:55.001Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T17:59:57.740Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T18:00:02.183Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2026-03-23T18:00:03.657Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T18:00:06.741Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T18:00:08.873Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T18:00:11.409Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T18:00:40.458Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2026-03-23T18:00:42.061Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T18:00:50.274Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2026-03-23T18:00:51.301Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T18:00:53.434Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T18:00:55.044Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T18:00:56.084Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T18:00:57.142Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T18:00:58.572Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T18:01:00.038Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T18:02:03.187Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T18:02:04.824Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T18:02:06.910Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T18:02:08.589Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T18:02:09.339Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T18:25:05.058Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-03-23T18:25:53.328Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 48
+      },
+      {
+        "date": "2026-03-23T19:09:01.936Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2589
+      },
+      {
+        "date": "2026-03-23T19:10:08.302Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 66
+      }
+    ],
+    "app.js": [
+      {
+        "date": "2026-03-23T17:59:14.892Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T17:59:42.595Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T18:00:26.362Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2026-03-23T18:00:31.845Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-03-23T18:01:03.103Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T18:02:18.277Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T18:02:23.681Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-03-23T18:02:28.941Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-03-23T18:02:30.526Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T18:02:34.670Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2026-03-23T18:02:36.337Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T18:05:27.326Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 170
+      },
+      {
+        "date": "2026-03-23T18:05:28.036Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T18:05:34.392Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-03-23T18:05:38.074Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2026-03-23T18:05:40.777Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T18:07:09.624Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 89
+      },
+      {
+        "date": "2026-03-23T18:07:13.653Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2026-03-23T18:07:16.679Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T18:07:20.111Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T18:07:21.730Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T18:07:23.452Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T18:07:28.688Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-03-23T18:07:29.770Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T18:07:35.639Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-03-23T18:07:40.797Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-03-23T18:07:48.856Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2026-03-23T18:07:58.079Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2026-03-23T18:08:03.175Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-03-23T18:08:15.819Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2026-03-23T18:08:16.897Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T18:08:21.156Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2026-03-23T18:08:22.289Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T18:08:26.041Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2026-03-23T18:08:29.037Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T18:08:31.354Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T18:08:33.258Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T18:08:34.634Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T18:08:37.357Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T18:08:40.926Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2026-03-23T18:08:46.728Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-03-23T18:08:49.959Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T18:08:52.791Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T18:09:01.461Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2026-03-23T18:09:07.370Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-03-23T18:09:11.909Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-03-23T18:09:17.619Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-03-23T18:09:19.837Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T18:09:21.604Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T18:09:23.641Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T18:09:30.443Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2026-03-23T18:09:32.007Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T18:09:45.195Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2026-03-23T18:09:47.116Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T18:09:48.117Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-03-23T18:09:50.114Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T18:09:52.081Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T18:10:40.010Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 47
+      },
+      {
+        "date": "2026-03-23T18:10:42.159Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T18:10:44.101Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T18:11:12.600Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 28
+      },
+      {
+        "date": "2026-03-23T18:11:34.440Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 22
+      },
+      {
+        "date": "2026-03-23T18:11:36.136Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T18:11:42.574Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-03-23T18:11:45.463Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-03-23T18:11:49.811Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2026-03-23T18:11:49.876Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2026-03-23T18:12:12.494Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 22
+      },
+      {
+        "date": "2026-03-23T18:12:19.581Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2026-03-23T18:12:30.370Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2026-03-23T18:12:32.523Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-03-23T18:12:37.150Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-03-23T18:13:22.687Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 46
+      },
+      {
+        "date": "2026-03-23T18:13:44.485Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 22
+      },
+      {
+        "date": "2026-03-23T19:11:47.680Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 49
+      },
+      {
+        "date": "2026-03-23T19:12:38.466Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 51
+      }
+    ],
+    ".gitignore": [
+      {
+        "date": "2026-03-23T19:10:40.824Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 28
+      },
+      {
+        "date": "2026-03-23T19:10:41.818Z",
+        "user": {
+          "name": "yasmeenabuzaid",
+          "email": "yasmeenabuzaid552@gmail.com"
+        },
+        "timeSpent": 1
+      }
     ]
   }
 }
