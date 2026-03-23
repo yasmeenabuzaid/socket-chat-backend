@@ -42,6 +42,9 @@ io.on('connection', (socket) => {
   socket.on('disconnect', () => {
     console.log(`User disconnected: ${socket.id}`);
   });
+  socket.on("send_message", (data) => {
+    socket.broadcast.emit("receive_message", data);
+  });
 });
 
 // -------------------- Start Server --------------------
